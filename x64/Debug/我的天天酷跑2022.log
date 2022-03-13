@@ -1,0 +1,15 @@
+﻿  main.cpp
+G:\VS2022\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\main.cpp(102,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\main.cpp(287,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\main.cpp(314,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\main.cpp(347,66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  tools.cpp
+G:\VS2022\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\tools.cpp(17,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\tools.cpp(175,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\tools.cpp(175,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\tools.cpp(175,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\天天酷跑\我的天天酷跑2022\我的天天酷跑2022\tools.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  我的天天酷跑2022.vcxproj -> G:\天天酷跑\我的天天酷跑2022\x64\Debug\我的天天酷跑2022.exe
